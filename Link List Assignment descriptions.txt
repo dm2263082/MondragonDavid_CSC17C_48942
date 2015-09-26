@@ -1,0 +1,12 @@
+Link Lists
+Due 9/25/15
+
+Create a simple vector class itulizing a singly link-list class that has push, etc... behaviors.
+
+Compare to the array implementation.
+
+Due 9/30/15
+
+Part 1:
+	Add to your Link Lists:
+		-First and Last functions
